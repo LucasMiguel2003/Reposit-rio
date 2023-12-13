@@ -13,13 +13,7 @@
     }
     
     nav{
-       /* display: flex;
-        width: 100vw;
-        height: 100px;
-        align-items: center;
-        font-size: 18px;
-        font-weight: 600;
-        */
+       
 
         width: 100vw;
         height: 80px;
@@ -33,16 +27,7 @@
     }
     
     nav > ul{
-        
-        /*
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 100vw;
-        height: 37px;
-        gap: 240px;
-        
-        */
+
         
         width: 100%;
         gap: 20px;
