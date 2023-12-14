@@ -595,12 +595,18 @@
     
     .portifolio{
         width:100%;
-        height: 100vh;
+        height: 2100px;
         background-color: #31065A;
         display: flex;
         flex-direction: column;
         
        
+       
+    }
+
+    .portifolio > .repositorios{
+        display: flex;
+        flex-direction: column;
        
     }
     
@@ -626,8 +632,8 @@
     
     .portifolio > .repositorios img{
         
-        width: 11.5vw;
-        height: 20vh;
+        width: 200px;
+        height: 200px;
         background-size: cover;
       
     }
