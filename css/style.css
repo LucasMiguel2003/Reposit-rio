@@ -30,9 +30,9 @@ body{
 nav{
    
     display: flex;
-    width: 700px;
+    width: 1280px;
     height: 100px;
-   margin: auto;
+    margin: auto;
    align-items: center;
     font-size: 18px;
     font-weight: 600;
@@ -45,11 +45,11 @@ nav > ul{
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100%;
-    gap: 30px;
-    margin-right: 520px;
+    width: 90vw;
+    gap: 120px;
+    margin-right: 420px;
     padding: 90px;
-    font-size: 16px;
+    font-size: 18px;
 
     
 }
@@ -310,10 +310,6 @@ nav >  a button:hover{
     margin: 20px;
     background-size: cover;
     filter: blur(0.7px);
-   
-  
-    
-
 }
 
 .portifolio > .repositorios img:hover{
@@ -321,6 +317,82 @@ nav >  a button:hover{
     transform: scale(1.1);
     filter: blur(0px);
     transition-duration: 0.5s;
+}
+.carreira{
+   color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.carreira-header {
+    font-size: 18pt;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+  
+}
+
+.carreira-container{
+    display: flex;
+ 
+    width: 60%;
+    margin: auto;
+    text-align: center;
+
+    
+    
+    
+}
+
+.carreira-esquerda{
+    margin-right: 322px;
+    margin-left: 152px;
+}
+
+.carreira-esquerda > .quadrados{
+    border: 1px solid #aaaaaa;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+
+
+.carreira-container > .carreira-esquerda .quadrados > h1{
+    margin-bottom: 5px;
+   
+}
+
+.carreira-direita{
+   width: 500px;
+
+}
+
+.carreira-direita > .quadrados > h3{
+    margin-bottom: 8px;
+}
+
+ .carreira-direita > .quadrados{
+    border: 1px solid #aaaaaa;
+    border-radius: 8px;
+    padding: 8px;
+    margin-bottom: 25px;
+
+}
+
+.carreira-direita > .quadrados a{
+    color: #F86F03;
+    text-decoration: none;
+}
+
+.carreira-direita > .quadrados a:hover{
+    text-decoration: underline;
+}
+
+
+footer{
+    background-color: #31065A;
 }
 
 footer > p{
@@ -361,9 +433,9 @@ footer > p{
 
         
        
-       width: 400px;
+       
         gap: 20px;
-        padding: 10px;
+        padding: 3px;
         font-size: 16px;
         display: flex;
         margin: auto;
@@ -397,6 +469,7 @@ footer > p{
         font-size: 16px;
         font-weight: 600;
          margin-left: 1px;
+         margin-right: 20px;
         
     }
 
@@ -457,6 +530,7 @@ footer > p{
         margin-left: -22px;
         font-size: 16px;
         font-weight: 600;
+      
         
     }
     
