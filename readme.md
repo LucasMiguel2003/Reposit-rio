@@ -23,17 +23,14 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 - Organização eficiente de elementos em linhas e colunas, visando proporcionar uma experiência de usuário agradável.
 - Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
 
-## Interface
-
-Você pode conferir o design da interface no [link do Figma](https://www.figma.com/community/file/979892246159607749) para ter uma visão detalhada de como o projeto se parece.
 
 ## Preview
 
-![portifólio](https://github.com/f5-nascimento/Sistok/assets/28812188/0eeb7054-37d7-40bd-abb3-002fbfeb3d88)
+![Capturar](https://github.com/LucasMiguel2003/Repositorio/assets/127208684/bc45f8f6-c042-400c-9680-98e95a68d1fd)
 
 
 ## Deploy
 
-O projeto está disponível em [Portifólio no Vercel](https://sistok-murex.vercel.app/) para visualização.
+O projeto está disponível em [Portifólio no Vercel]() para visualização.
 
-Seja bem-vindo ao Clone-Sistok, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+Seja bem-vindo ao meu portifólio, e sinta-se à vontade para contribuir ou entrar em contato conosco!
